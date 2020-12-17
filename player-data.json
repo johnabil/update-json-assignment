@@ -1,0 +1,65 @@
+{
+  "playerLevel": 2,
+  "selectedHero": "7057ef0d-716d-4c0b-a09c-0ee1286d908f",
+  "talentUpgradeCount": 1,
+  "lastChapterSelected": "",
+  "lastChapterIndex": 2,
+  "lastDifficultyIndex": 0,
+  "lastEnergyTimestamp": "09/18/2020 13:38:30",
+  "lastCommonChestTimeStamp": "09/18/2020 13:30:30",
+  "lastRareChestTimeStamp": "09/18/2020 13:30:30",
+  "playCount": 3,
+  "sessionCount": 1,
+  "lastEndlessFloorCompleted": 0,
+  "currencies": [
+    {
+      "id": "energy",
+      "quantity": 37
+    },
+    {
+      "id": "key",
+      "quantity": 5
+    }
+  ],
+  "talents": [
+    {
+      "talentId": "extra_bullet",
+      "level": 1
+    }
+  ],
+  "heroes": [
+    {
+      "id": "7057ef0d-716d-4c0b-a09c-0ee1286d908f",
+      "heroId": "default",
+      "level": 4
+    }
+  ],
+  "IAP_items": [
+    {
+      "id": "energy",
+      "values": [
+        5,
+        10,
+        15
+      ]
+    }
+  ],
+  "transactions": [
+    {
+      "id": 100,
+      "currency_id": "energy",
+      "type": "consumable",
+      "quantity": 15,
+      "timestamp": 1607589872,
+      "total_currency_count": 320,
+      "player_id": 150
+    },
+    {
+      "id": 101,
+      "name": "BattlePass",
+      "type": "subscription",
+      "timestamp": 1607589872,
+      "player_id": 150
+    }
+  ]
+}
