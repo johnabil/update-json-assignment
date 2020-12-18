@@ -19,6 +19,10 @@
     {
       "id": "key",
       "quantity": 5
+    },
+    {
+      "id": "health",
+      "quantity": 60
     }
   ],
   "talents": [
