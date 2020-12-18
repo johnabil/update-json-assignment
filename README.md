@@ -2,7 +2,7 @@
 
 ## Game's Requests
 * Updating player's progress.
-* players sorted by player level.
+* players sorted by player's level.
 * Update new IAP items.
 * Update new transactions.
 * Updating remote server json file with local file to prevent any cheats.
